@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00cf967e-3ca4-48b3-905b-875978d0928e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/MonthSales/services/ServiceMonthSales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ServiceMonthSalesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../number_of_squares/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../number_of_squares/src/main/java/ru/netology/sqr/SQRService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../number_of_squares/src/test/java/ru/netology/sqr/BonusServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/BonusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/BonusService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LCSDtLnyIrQuX2eDfPUhYb8WrV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "C:/Users/Алексей/IdeaProjects/bonus-service/MonthSales/src/main/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Алексей\IdeaProjects\bonus-service\MonthSales" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ServiceMonthSalesTest">
+    <configuration name="ServiceMonthSalesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonthSales" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ServiceMonthSalesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMonthSalesTest.shouldGetMaxMonth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonthSales" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ServiceMonthSalesTest" />
+      <option name="METHOD_NAME" value="shouldGetMaxMonth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMonthSalesTest.shouldGetMaxSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonthSales" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ServiceMonthSalesTest" />
+      <option name="METHOD_NAME" value="shouldGetMaxSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMonthSalesTest.shouldGetMinMonth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonthSales" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ServiceMonthSalesTest" />
+      <option name="METHOD_NAME" value="shouldGetMinMonth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMonthSalesTest.shouldGetMinSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonthSales" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ServiceMonthSalesTest" />
+      <option name="METHOD_NAME" value="shouldGetMinSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ServiceMonthSalesTest" />
+        <item itemvalue="JUnit.ServiceMonthSalesTest.shouldGetMaxSales" />
+        <item itemvalue="JUnit.ServiceMonthSalesTest.shouldGetMinSales" />
+        <item itemvalue="JUnit.ServiceMonthSalesTest.shouldGetMinMonth" />
+        <item itemvalue="JUnit.ServiceMonthSalesTest.shouldGetMaxMonth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00cf967e-3ca4-48b3-905b-875978d0928e" name="Changes" comment="" />
+      <created>1675373457813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675373457813</updated>
+    </task>
+    <servers />
+  </component>
+</project>
